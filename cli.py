@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse, sys
 from tasks import Task
 from storage import load_tasks, save_tasks
